@@ -16,11 +16,10 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![Screenshot 2023-11-27 210350](https://github.com/sravanipopuri2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139778301/34aadcd4-7107-4a34-a6f0-b98065bed847)
+![Screenshot 2023-11-27 211121](https://github.com/sravanipopuri2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139778301/ae561776-583e-4424-bf8a-a1d5285eeae7)
 ![Screenshot 2023-11-27 210422](https://github.com/sravanipopuri2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139778301/0c2fb8b1-187d-4f8d-88cb-f5e6f66a1f83)
 ![Screenshot 2023-11-27 210440](https://github.com/sravanipopuri2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139778301/7fc11b4a-e3a8-49d8-825d-d6817046d852)
 
-## Output:
 
 ### Name:POPURI SRAVANI
 ### Register Number: 23006561
